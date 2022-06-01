@@ -1,5 +1,5 @@
 DRIVER = 'ODBC Driver 17 for SQL Server'
 SERVER = 'database.windows.net'
-USER_ID = ''
+USER_ID = 'admin'
 PASSWORD = ''
 DATABASE = 'Dashboard'
